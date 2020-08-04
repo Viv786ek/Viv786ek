@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate with other developer
 - 🤔 I’m looking for help with CP
 - 💬 Ask me about CP
-- 📫 How to reach me:<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />: https://twitter.com/VivekKu04263472
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />: https://instagram.com/Viv786ek
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />: https://linkedin.com/in/vivek-kumar-srivastava-07387a170
+- 📫 How to reach me:[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 - 😄 Pronouns: 🤣
 - ⚡ Fun fact: I love to sing a song
 
