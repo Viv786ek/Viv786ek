@@ -2,7 +2,7 @@
 
 ## I'm a Developer !
 - 🔭 I’m currently working on Data Science!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other developer
 - 🤔 I’m looking for help with CP
 - 💬 Ask me about CP
