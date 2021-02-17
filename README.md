@@ -12,10 +12,6 @@
 - 👯 I’m looking to collaborate with other developer
 - 🤔 I’m looking for help with CP
 - 💬 Ask me about CP , Data Science
-- 📫 How to reach me:
-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 - ⚡ Fun fact: I love to solve problem
 
 ### Connect with me:
@@ -47,4 +43,4 @@
 
 [twitter]: https://twitter.com/VivekKu04263472
 [instagram]: https://instagram.com/Viv786ek
-[linkedin]: https://linkedin.com/in/vivek-kumar-srivastava-07387a170
+[linkedin]: https://www.linkedin.com/in/viv786ek/
