@@ -13,12 +13,9 @@
 - 🤔 I’m looking for help with CP
 - 💬 Ask me about CP , Data Science
 - ⚡ Fun fact: I love to solve problem
+- <a href="https://www.buymeacoffee.com/TuOmwckVD" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 15px !important;width: 70 !important;" ></a>
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.linkedin.com/in/Viv786ek/" target="_blank"><h2>Endorse me on </h2><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6152iVjc8GnvG9pp0adVl2wwgYFsidHAI0g&usqp=CAU" alt="LinkedIn"  style="height: 25 !important;width: 75px !important ;" > </a>
 
 <br />
 
