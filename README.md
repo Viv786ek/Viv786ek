@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other developer
 - 🤔 I’m looking for help with CP
-- 💬 Ask me about CP , Data Science
+- 💬 Ask me about CP
 - ⚡ Fun fact: I love to solve problem
 - <a href="https://www.buymeacoffee.com/TuOmwckVD" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 15px !important;width: 70 !important;" ></a>
 
