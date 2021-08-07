@@ -7,10 +7,10 @@
 <img src="https://camo.githubusercontent.com/c2344f891c785dfe7ecbc4c76afcf80f0f5112955acc4761e6016fb1165a25f3/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f736872616e6e796f626173752f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/Viv786ek/count.svg" style="max-width:100%;">
 
 
-- 🔭 I’m currently working on CP!
+- 🔭 I’m currently working on Problem Solving!
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other developer
-- 🤔 I’m looking for help with CP
+- 🤔 I’m looking for help with Problem Solving
 - 💬 Ask me about CP
 - ⚡ Fun fact: I love to solve problem
 - <a href="https://www.buymeacoffee.com/TuOmwckVD" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 15px !important;width: 70 !important;" ></a>
