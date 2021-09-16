@@ -1,6 +1,9 @@
-# Hi there, I'm Vivek 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Vivek Kumar Srivastava</h1>
 
-## I'm a Problem Solver Enthusiast !
+<h3 align="center"> I'm a Problem Solver Enthusiast and Developer !</h3>
 <h3><a id="user-content-profile-views-" class="anchor" aria-hidden="true" href="#profile-views-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Profile Views :<br></h3>
 
 
@@ -18,9 +21,6 @@
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=viv786ek&theme=radical)">
 </a>
 </p>
-
-<a href="https://www.linkedin.com/in/Viv786ek/" target="_blank"><h2>Endorse me on </h2><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6152iVjc8GnvG9pp0adVl2wwgYFsidHAI0g&usqp=CAU" alt="LinkedIn"  style="height: 25 !important;width: 75px !important ;" > </a>
-
 <br />
 
 ### Languages and Tools:
@@ -42,10 +42,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=viv786ek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-[twitter]: https://twitter.com/VivekKu04263472
-[instagram]: https://instagram.com/Viv786ek
-[linkedin]: https://www.linkedin.com/in/viv786ek/
-
 <hr>
 
 <h3 align="center">Connect with me:</h3>
@@ -56,4 +52,6 @@
 </p>
 
 <hr>
+
+
 
