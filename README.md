@@ -13,7 +13,11 @@
 - 🤔 I’m looking for help with Problem Solving
 - 💬 Ask me about CP
 - ⚡ Fun fact: I love to solve problem
-- <a href="https://www.buymeacoffee.com/TuOmwckVD" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 15px !important;width: 70 !important;" ></a>
+<p>
+<a align= "center" href="https://github.com/ishikkkkaaaa">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=viv786ek&theme=radical)">
+</a>
+</p>
 
 <a href="https://www.linkedin.com/in/Viv786ek/" target="_blank"><h2>Endorse me on </h2><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6152iVjc8GnvG9pp0adVl2wwgYFsidHAI0g&usqp=CAU" alt="LinkedIn"  style="height: 25 !important;width: 75px !important ;" > </a>
 
