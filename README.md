@@ -2,8 +2,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Vivek Kumar Srivastava</h1>
-<p align="center"><em>Software Development Engineer at <a href="https://www.emtecinc.com">Emtec Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h4><p align="center"><em>Software Development Engineer at <a href="https://www.emtecinc.com">Emtec Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p></h4>
 <!-- <h3 align="center"> I'm a Problem Solver Enthusiast and Developer !</h3> -->
 <h3><a id="user-content-profile-views-" class="anchor" aria-hidden="true" href="#profile-views-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Profile Views :<br></h3>
 
@@ -44,7 +44,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -63,14 +62,12 @@
 [![](https://img.shields.io/badge/Leetcode-Viv786_ek-red)](https://leetcode.com/Viv786_ek/)
 
 <br />
-<br />
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=viv786ek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🤝🏻Connect with me:</h3>
 <p align="center">
 <!--          <a href="https://www.linkedin.com/in/soham-chakraborty-69aa70192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Viv786ek)
