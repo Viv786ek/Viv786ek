@@ -3,8 +3,8 @@
          height="45"
          width="45" />, I'm Vivek Kumar Srivastava</h1> 
 <h3><p align="center"><em>Software Development Engineer at <a href="https://www.emtecinc.com">Emtec Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p></h3><br>
-### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
+<!-- </em></p></h3><br>
+### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:<br> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=viv786ek&label=Profile%20views&color=0e75b6&style=flat" alt="viv786ek" /> </p> -->
 
