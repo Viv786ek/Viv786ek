@@ -1,9 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Vivek Kumar Srivastava</h1>
-<h4><p align="center"><em>Software Development Engineer at <a href="https://www.emtecinc.com">Emtec Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p></h4>
+         width="45" />, I'm Vivek Kumar Srivastava</h1> 
+<h3><p align="center"><em>Software Development Engineer at <a href="https://www.emtecinc.com">Emtec Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p></h3><br>
+### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=viv786ek&label=Profile%20views&color=0e75b6&style=flat" alt="viv786ek" /> </p> -->
+
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=viv786ek&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/viv786ek)
 <!-- <h3 align="center"> I'm a Problem Solver Enthusiast and Developer !</h3> -->
 <h3><a id="user-content-profile-views-" class="anchor" aria-hidden="true" href="#profile-views-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Profile Views :<br></h3>
 
@@ -11,12 +17,12 @@
 <img src="https://camo.githubusercontent.com/c2344f891c785dfe7ecbc4c76afcf80f0f5112955acc4761e6016fb1165a25f3/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f736872616e6e796f626173752f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/Viv786ek/count.svg" style="max-width:100%;">
 
 
-- 🔭 I’m currently working on Problem Solving!
-- 🌱 I’m currently learning everything. 🤣
-- 👯 I’m looking to collaborate with other developer
-- 🤔 I’m looking for help with Problem Solving and developing applications.
-- 💬 Ask me about Problem Solving and Frontend Development.
-- ⚡ Fun fact: I love to solve problem
+- 🔭 I’m currently working on Problem Solving && developing applications.
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate with other developer.
+- 🤔 I’m looking for help with Problem Solving.
+- 💬 Ask me about Problem Solving and Full Stack Development.
+- ⚡ Fun fact: I love to travel
 <p>
 <a align= "center" href="https://github.com/ishikkkkaaaa">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=viv786ek&theme=radical)">
