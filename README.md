@@ -24,7 +24,7 @@
 - 💬 Ask me about Problem Solving and Full Stack Development.
 - ⚡ Fun fact: I love to travel
 <p>
-<a align= "center" href="https://github.com/ishikkkkaaaa">
+<a align= "center" href="https://github.com/viv786ek">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=viv786ek&theme=radical)">
 </a>
 </p>
