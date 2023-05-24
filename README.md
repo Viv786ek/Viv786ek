@@ -82,8 +82,8 @@
 <a href="https://twitter.com/VivekKu04263472" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Vivek Kumar Srivastava" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/Viv786ek/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Vivek Kumar Srivastava" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:vivekkumarsrivastava877@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" alt="VIVEK" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://api.whatsapp.com/send?phone=7897542077&text=Hi!" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/whatsapp.png" alt="VIVEK" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/Viv786ek" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="VIVEK" height="50" width="50" /></a>
+<a href="https://api.whatsapp.com/send?phone=9123369601&text=Hi!" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/whatsapp.png" alt="VIVEK" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/_vivek.srivastava" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="VIVEK" height="50" width="50" /></a>
 </p>
 
 <hr>
